@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>E-commerce Price Recommendation</title>
+    <style>
+        body {
+            background-image: url('{{ url_for('static', filename='background.jpg') }}');
+            background-size: cover;
+            background-repeat: no-repeat;
+            background-attachment: fixed;
+        }
+        .header {
+            display: flex;
+            align-items: center;
+            padding: 10px;
+        }
+        .header img {
+            width: 150px;
+            height: 150px;
+            border-radius: 80%;
+            background: transparent;
+            margin-right: 20px;
+        }
+        .header h1 {
+            font-size: 55px;
+            font-weight: bold;
+            text-align: center;
+            flex-grow: 1;
+        }
+        .center-text {
+            text-align: center;
+            font-size: 48px;
+            font-weight: bold;
+            margin: 20px 0;
+        }
+        form {
+            text-align: center;
+            margin-top: 100px;
+        }
+        input[type="file"] {
+            display: none;
+        }
+        label {
+            font-size: 20px;
+            padding: 10px 20px;
+            border-radius: 20px;
+            border: none;
+            background-color: #007BFF;
+            color: white;
+            cursor: pointer;
+            margin-right: 20px;
+        }
+        button {
+            font-size: 20px;
+            padding: 10px 20px;
+            border-radius: 20px;
+            border: none;
+            background-color: #1e00ff;
+            color: white;
+            cursor: pointer;
+        }
+        button:hover, label:hover {
+            background-color: #0056b3;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+         <h1>MYNTRA</h1>
+    </div>
+    <div class="center-text">PRICE RECOMMENDATION</div>
+    <h1 style="text-align: center;">UPLOAD YOUR DATA</h1>
+    <form action="/upload" method="post" enctype="multipart/form-data">
+        <label for="file-upload">Choose File</label>
+        <input type="file" name="file" id="file-upload" required>
+        <button type="submit">Upload and Process</button>
+    </form>
+</body>
+</html>
