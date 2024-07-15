@@ -1,0 +1,1237 @@
+Product ID,Web Traffic,Cart Status,Stock Status,Units Sold,Present Price,Customer Ratings
+1,6525,purchased,out of product,169,161,4.4
+2,4518,purchased,in stock,359,384,1.5
+3,2877,incart,in stock,162,154,2.3
+4,9917,incart,out of product,116,397,2.2
+5,7714,purchased,out of product,80,324,4.1
+6,3204,purchased,out of product,12,565,1.5
+7,7372,incart,out of product,418,414,1.3
+8,4869,purchased,in stock,102,793,4.5
+9,8756,purchased,in stock,187,321,4.2
+10,7142,purchased,out of product,265,168,1.8
+11,1871,purchased,in stock,189,913,2.3
+12,2899,incart,out of product,38,810,3.5
+13,7956,incart,out of product,33,803,2.3
+14,5363,purchased,in stock,121,737,5.0
+15,9174,purchased,out of product,362,705,3.5
+16,3591,purchased,in stock,204,391,2.7
+17,10000,incart,out of product,299,96,1.4
+18,5803,purchased,in stock,45,32,3.4
+19,612,incart,in stock,447,996,2.4
+20,2713,incart,out of product,434,365,1.3
+21,7196,purchased,in stock,5,532,1.5
+22,4019,incart,out of product,110,669,2.9
+23,2837,incart,in stock,259,677,4.6
+24,4415,purchased,in stock,468,366,4.2
+25,920,purchased,out of product,324,852,1.5
+26,5783,incart,out of product,71,492,3.5
+27,3711,incart,out of product,134,212,3.8
+28,8751,incart,in stock,121,612,2.3
+29,7152,purchased,out of product,443,228,3.8
+30,1837,incart,out of product,132,495,3.9
+31,6224,incart,in stock,217,442,1.5
+32,3262,incart,out of product,27,74,3.4
+33,1671,purchased,out of product,239,593,1.2
+34,3807,incart,out of product,226,126,2.6
+35,2740,incart,out of product,458,295,2.7
+36,4121,purchased,out of product,5,917,4.3
+37,6164,incart,out of product,306,210,2.3
+38,1799,incart,out of product,110,67,3.3
+39,9830,purchased,out of product,338,505,1.3
+40,225,purchased,out of product,403,479,3.2
+41,8870,purchased,out of product,413,577,4.4
+42,7390,incart,in stock,114,797,2.6
+43,7091,incart,in stock,49,924,2.4
+44,8462,purchased,out of product,249,874,3.5
+45,7486,incart,out of product,74,893,1.9
+46,2917,incart,in stock,18,119,3.9
+47,9097,purchased,in stock,165,988,3.6
+48,4077,purchased,in stock,404,420,3.5
+49,4245,incart,in stock,438,145,3.0
+50,4645,incart,in stock,107,257,3.9
+51,1553,purchased,out of product,79,939,2.4
+52,6386,incart,out of product,150,72,3.1
+53,3981,incart,out of product,411,142,1.4
+54,3412,purchased,in stock,120,832,5.0
+55,2181,purchased,out of product,277,164,3.8
+56,3654,incart,out of product,339,241,2.9
+57,1400,incart,out of product,97,637,1.1
+58,5591,incart,out of product,94,458,1.7
+59,2414,purchased,in stock,7,314,4.9
+60,1380,purchased,in stock,263,291,3.5
+61,2516,purchased,in stock,215,829,3.0
+62,9566,purchased,out of product,318,360,3.8
+63,4969,incart,out of product,224,232,2.6
+64,5551,incart,out of product,472,585,3.7
+65,2447,purchased,out of product,253,683,3.9
+66,3436,incart,out of product,100,381,4.1
+67,9284,purchased,in stock,321,22,1.7
+68,9972,incart,out of product,177,637,2.9
+69,8671,purchased,out of product,113,605,4.1
+70,1430,incart,in stock,482,314,1.6
+71,2512,incart,in stock,208,293,1.9
+72,587,purchased,out of product,196,862,3.0
+73,9387,purchased,in stock,278,700,1.9
+74,9965,purchased,out of product,70,814,2.0
+75,9219,purchased,out of product,85,678,3.4
+76,6389,incart,in stock,32,457,4.9
+77,7989,incart,out of product,459,983,3.6
+78,2200,incart,out of product,446,586,2.2
+79,6313,purchased,out of product,17,992,3.6
+80,7117,purchased,in stock,64,750,4.2
+81,3863,purchased,in stock,164,491,1.6
+82,5262,purchased,in stock,74,632,2.2
+83,7352,incart,in stock,363,929,2.4
+84,751,purchased,out of product,175,422,1.3
+85,2749,incart,out of product,206,651,2.3
+86,8699,purchased,in stock,100,608,2.2
+87,6434,incart,out of product,327,800,4.3
+88,4796,purchased,in stock,170,824,4.1
+89,4163,purchased,out of product,416,48,2.5
+90,7930,purchased,out of product,324,418,4.1
+91,3436,incart,in stock,246,295,1.8
+92,7883,purchased,out of product,298,10,2.6
+93,4117,incart,out of product,452,306,3.9
+94,2217,incart,in stock,182,551,4.3
+95,5403,incart,in stock,294,73,2.0
+96,3729,purchased,out of product,297,341,3.9
+97,8066,incart,in stock,119,183,3.3
+98,1569,purchased,in stock,256,76,4.1
+99,6935,purchased,in stock,323,159,4.8
+100,1423,incart,out of product,379,514,3.8
+101,3061,purchased,in stock,53,191,2.3
+102,1548,purchased,in stock,222,372,2.6
+103,9005,incart,in stock,42,181,3.0
+104,3644,purchased,in stock,286,229,3.5
+105,6167,purchased,out of product,129,404,2.1
+106,5945,incart,out of product,448,200,4.8
+107,9683,incart,out of product,45,695,1.9
+108,5762,incart,in stock,31,441,4.1
+109,4467,purchased,out of product,3,209,3.8
+110,9043,purchased,in stock,381,271,3.7
+111,3173,purchased,in stock,71,126,1.2
+112,4405,purchased,out of product,393,929,4.6
+113,9615,purchased,in stock,116,460,1.6
+114,1142,incart,out of product,327,369,2.2
+115,7696,incart,in stock,80,875,2.8
+116,6419,incart,in stock,400,276,2.3
+117,5157,incart,in stock,240,709,3.6
+118,2216,purchased,out of product,324,100,3.0
+119,9611,purchased,in stock,345,893,4.1
+120,4801,incart,out of product,392,567,3.6
+121,7484,purchased,in stock,466,909,1.1
+122,1275,purchased,out of product,476,630,2.5
+123,8195,purchased,out of product,453,622,3.9
+124,2086,purchased,in stock,199,805,4.8
+125,7999,purchased,in stock,160,900,3.2
+126,529,purchased,out of product,32,92,4.5
+127,6850,purchased,in stock,146,376,3.5
+128,9001,incart,out of product,380,979,4.6
+129,5324,incart,in stock,225,40,3.6
+130,552,purchased,out of product,194,870,3.3
+131,9432,purchased,in stock,243,238,2.9
+132,2697,purchased,out of product,374,473,3.2
+133,4936,purchased,out of product,213,810,5.0
+134,5947,purchased,in stock,419,782,4.0
+135,3705,purchased,out of product,119,109,4.9
+136,8430,purchased,in stock,273,177,1.7
+137,9329,incart,out of product,7,490,1.9
+138,7678,incart,in stock,121,350,4.9
+139,5703,purchased,out of product,392,544,4.7
+140,8495,incart,in stock,212,113,5.0
+141,2362,incart,in stock,349,945,3.9
+142,4470,incart,in stock,494,164,4.4
+143,6793,incart,out of product,350,184,2.5
+144,4555,incart,out of product,189,946,1.8
+145,7986,incart,in stock,257,667,3.9
+146,2348,purchased,in stock,146,495,1.7
+147,6845,incart,in stock,250,835,3.1
+148,7085,incart,in stock,67,790,1.6
+149,7655,purchased,out of product,160,590,4.1
+150,9074,purchased,out of product,383,584,1.1
+151,8967,incart,out of product,26,604,3.7
+152,4122,purchased,in stock,97,166,2.4
+153,875,purchased,out of product,276,141,3.8
+154,2804,purchased,out of product,469,33,2.2
+155,3658,incart,in stock,411,61,3.6
+156,9585,incart,out of product,411,761,3.0
+157,8395,incart,in stock,0,857,2.1
+158,5579,purchased,in stock,364,915,1.7
+159,6107,purchased,in stock,434,418,3.4
+160,7869,purchased,out of product,12,925,3.4
+161,4833,incart,in stock,426,22,2.0
+162,2680,purchased,in stock,272,247,4.8
+163,2498,incart,out of product,500,129,4.0
+164,4858,incart,in stock,47,987,1.9
+165,8672,incart,out of product,347,698,1.5
+166,8754,purchased,in stock,119,396,2.0
+167,9890,incart,out of product,406,875,1.4
+168,1844,incart,in stock,403,404,4.6
+169,4739,purchased,out of product,12,42,2.0
+170,560,purchased,in stock,335,381,3.7
+171,1285,purchased,in stock,337,578,4.0
+172,7155,incart,out of product,488,837,3.4
+173,8948,incart,in stock,192,137,3.6
+174,1518,incart,in stock,281,992,3.2
+175,1134,purchased,out of product,273,658,3.6
+176,5421,purchased,out of product,160,96,4.8
+177,2617,incart,in stock,62,145,4.2
+178,7535,incart,in stock,373,93,1.3
+179,7635,purchased,in stock,403,461,3.6
+180,6283,purchased,out of product,420,690,2.0
+181,2853,purchased,in stock,295,649,3.8
+182,2011,incart,in stock,254,675,1.0
+183,7046,incart,out of product,338,867,1.8
+184,9408,purchased,in stock,258,651,3.8
+185,3561,incart,in stock,104,444,4.7
+186,8014,incart,in stock,496,871,4.9
+187,7359,incart,out of product,173,113,2.4
+188,6354,purchased,out of product,328,744,1.5
+189,1434,purchased,in stock,430,720,1.7
+190,1429,purchased,out of product,0,856,4.7
+191,9783,purchased,out of product,252,643,1.6
+192,7805,purchased,in stock,122,935,1.1
+193,4663,purchased,out of product,54,391,4.4
+194,1315,incart,out of product,361,711,2.7
+195,6862,incart,in stock,129,971,4.5
+196,3159,purchased,in stock,382,757,2.9
+197,7180,incart,in stock,174,732,2.4
+198,3483,incart,out of product,140,87,2.2
+199,776,purchased,in stock,449,298,3.6
+200,8974,incart,out of product,495,297,4.1
+201,9012,purchased,out of product,308,189,3.2
+202,5951,purchased,in stock,413,171,2.1
+203,8660,purchased,in stock,29,903,2.8
+204,7114,incart,out of product,42,925,4.8
+205,1236,incart,in stock,151,882,1.3
+206,7843,incart,out of product,23,775,4.0
+207,8526,purchased,in stock,261,490,4.1
+208,4066,incart,out of product,11,256,2.5
+209,6869,incart,in stock,486,604,4.5
+210,7349,purchased,in stock,74,822,3.9
+211,8510,purchased,in stock,182,328,4.9
+212,2344,incart,out of product,71,80,2.2
+213,9032,purchased,out of product,26,737,2.5
+214,9380,purchased,out of product,188,118,2.0
+215,5495,incart,in stock,71,837,3.2
+216,7118,purchased,out of product,237,89,2.4
+217,2255,purchased,in stock,127,131,1.4
+218,1122,purchased,in stock,495,752,4.4
+219,7919,purchased,out of product,137,969,2.8
+220,8215,purchased,in stock,260,799,3.6
+221,8156,incart,in stock,229,891,3.2
+222,9763,purchased,in stock,9,967,1.3
+223,6902,incart,out of product,169,669,3.3
+224,3632,incart,in stock,487,37,1.1
+225,4966,incart,out of product,193,200,2.0
+226,3267,incart,in stock,13,823,3.7
+227,9165,incart,out of product,153,319,2.5
+228,136,incart,in stock,276,947,4.2
+229,7900,purchased,in stock,243,116,4.8
+230,857,incart,out of product,155,537,3.1
+231,1247,purchased,out of product,288,255,1.7
+232,3782,purchased,out of product,18,951,4.8
+233,9392,incart,out of product,301,939,4.5
+234,9252,purchased,in stock,53,440,3.2
+235,879,incart,in stock,219,941,4.0
+236,6929,purchased,in stock,264,416,4.7
+237,5239,incart,in stock,132,939,3.1
+238,5423,purchased,out of product,79,791,4.5
+239,4310,incart,out of product,388,334,4.2
+240,6367,purchased,in stock,464,680,3.9
+241,3373,purchased,in stock,128,268,2.2
+242,7205,purchased,in stock,188,245,3.3
+243,8048,purchased,out of product,314,753,3.7
+244,9962,purchased,out of product,209,467,1.7
+245,8167,purchased,out of product,201,99,4.3
+246,729,purchased,out of product,50,111,2.7
+247,6505,incart,out of product,171,261,2.4
+248,7198,purchased,in stock,4,48,2.8
+249,5123,purchased,in stock,112,714,3.5
+250,7645,purchased,in stock,204,91,1.7
+251,6811,purchased,out of product,469,374,1.4
+252,7156,incart,out of product,309,862,3.2
+253,2632,purchased,out of product,259,112,2.9
+254,187,incart,in stock,129,92,4.6
+255,8735,purchased,in stock,217,69,1.7
+256,7888,incart,in stock,323,792,4.2
+257,4031,purchased,in stock,79,781,4.7
+258,5795,incart,in stock,16,721,4.7
+259,6073,incart,out of product,165,742,2.2
+260,1891,purchased,in stock,471,802,3.4
+261,6773,purchased,out of product,268,961,3.1
+262,3023,incart,out of product,199,303,2.9
+263,7999,incart,in stock,155,126,3.2
+264,2876,incart,in stock,255,346,1.9
+265,8813,incart,out of product,18,797,1.0
+266,4573,incart,out of product,17,348,1.3
+267,5132,incart,out of product,57,531,1.1
+268,3966,incart,in stock,326,676,1.0
+269,1243,incart,out of product,46,173,2.8
+270,9934,purchased,in stock,123,27,2.1
+271,4795,purchased,in stock,443,488,2.6
+272,2442,purchased,out of product,195,505,2.1
+273,4244,purchased,out of product,109,962,1.3
+274,100,purchased,out of product,285,43,1.0
+275,5093,purchased,in stock,8,249,3.9
+276,4338,purchased,out of product,357,814,4.8
+277,1683,purchased,in stock,312,467,4.7
+278,6408,incart,out of product,298,994,2.0
+279,3421,purchased,in stock,20,328,4.1
+280,6963,incart,in stock,173,610,1.1
+281,2027,incart,in stock,240,337,4.7
+282,5429,purchased,in stock,193,933,1.3
+283,8073,purchased,out of product,312,708,4.2
+284,8115,incart,out of product,11,941,3.5
+285,9562,incart,out of product,15,368,1.8
+286,9000,purchased,in stock,479,757,2.8
+287,7906,purchased,out of product,109,721,2.6
+288,2726,purchased,out of product,215,803,3.6
+289,7909,incart,in stock,215,772,2.6
+290,5490,purchased,out of product,383,748,2.8
+291,3391,purchased,in stock,268,947,1.6
+292,959,purchased,in stock,477,548,3.1
+293,2044,purchased,out of product,13,520,2.3
+294,8549,purchased,in stock,264,335,1.9
+295,9483,incart,out of product,297,928,3.1
+296,2206,incart,in stock,249,594,1.1
+297,1696,purchased,in stock,419,840,2.9
+298,7453,incart,in stock,427,68,1.5
+299,957,incart,out of product,70,817,4.7
+300,8783,incart,out of product,104,69,2.3
+301,4399,purchased,out of product,34,931,4.8
+302,837,incart,in stock,300,842,4.2
+303,1601,purchased,out of product,120,92,2.9
+304,9504,purchased,out of product,197,30,2.3
+305,7771,purchased,out of product,360,130,3.3
+306,7685,purchased,in stock,144,121,2.5
+307,8123,incart,in stock,39,607,3.8
+308,3776,incart,out of product,134,104,1.3
+309,9840,incart,in stock,56,262,4.6
+310,4211,purchased,in stock,140,998,1.4
+311,4816,purchased,out of product,242,627,4.5
+312,4657,incart,in stock,435,927,1.1
+313,4247,purchased,in stock,286,625,4.2
+314,7869,incart,out of product,292,726,4.0
+315,949,incart,in stock,315,944,3.2
+316,8005,incart,out of product,53,126,4.2
+317,2207,incart,in stock,94,390,2.2
+318,885,purchased,in stock,20,127,1.7
+319,1350,purchased,out of product,361,130,5.0
+320,3934,purchased,in stock,301,696,2.1
+321,8109,purchased,in stock,275,374,2.3
+322,3686,incart,out of product,377,784,4.7
+323,9163,purchased,out of product,95,682,2.0
+324,7802,purchased,in stock,128,803,3.2
+325,9543,incart,out of product,245,165,1.1
+326,5252,purchased,out of product,163,465,2.4
+327,2123,incart,in stock,111,824,1.7
+328,3596,purchased,in stock,181,21,1.4
+329,1932,incart,out of product,366,72,5.0
+330,1936,purchased,out of product,20,643,4.6
+331,3271,purchased,out of product,167,149,2.1
+332,7972,purchased,out of product,51,410,5.0
+333,7011,purchased,in stock,441,326,1.6
+334,2852,purchased,out of product,447,159,3.4
+335,7675,incart,in stock,350,451,1.2
+336,4939,incart,out of product,213,43,2.9
+337,5747,incart,out of product,379,412,2.4
+338,1329,purchased,out of product,297,472,1.1
+339,4057,incart,out of product,293,799,4.5
+340,1437,incart,out of product,455,210,3.7
+341,5470,incart,out of product,127,237,3.2
+342,3471,purchased,out of product,291,848,2.7
+343,2717,incart,in stock,302,312,2.4
+344,1283,purchased,in stock,10,711,3.5
+345,9410,incart,out of product,132,719,4.6
+346,924,incart,out of product,473,540,4.1
+347,5782,purchased,out of product,94,851,2.0
+348,9541,purchased,in stock,357,804,2.2
+349,8073,purchased,out of product,178,698,4.3
+350,3760,purchased,in stock,39,785,4.3
+351,8081,incart,in stock,360,102,3.0
+352,1818,incart,in stock,256,625,2.9
+353,5773,purchased,in stock,274,416,3.1
+354,6000,incart,in stock,329,606,1.1
+355,1338,purchased,in stock,159,566,1.5
+356,2957,purchased,in stock,411,875,4.0
+357,7257,incart,in stock,309,926,4.2
+358,477,purchased,in stock,346,569,1.5
+359,3724,incart,out of product,319,514,1.8
+360,420,purchased,out of product,281,576,4.2
+361,1903,purchased,in stock,149,983,1.0
+362,7337,purchased,out of product,54,947,1.4
+363,1909,incart,out of product,113,909,4.2
+364,9178,incart,out of product,322,818,2.2
+365,9139,incart,out of product,109,238,1.3
+366,199,incart,out of product,496,655,4.3
+367,4508,purchased,out of product,390,241,2.8
+368,8102,purchased,in stock,322,322,2.6
+369,5017,purchased,in stock,339,911,4.9
+370,6003,purchased,in stock,52,331,2.0
+371,5530,incart,out of product,465,937,3.9
+372,5774,purchased,in stock,424,967,3.9
+373,9315,incart,out of product,21,795,1.6
+374,5423,purchased,out of product,170,117,2.0
+375,4314,incart,in stock,339,798,2.8
+376,1536,incart,in stock,407,898,4.1
+377,8319,purchased,out of product,353,637,3.9
+378,9606,purchased,in stock,42,962,1.4
+379,9578,incart,out of product,107,566,4.1
+380,8025,purchased,out of product,203,212,3.6
+381,9626,incart,in stock,435,407,4.9
+382,5086,purchased,out of product,366,311,1.9
+383,3615,incart,in stock,236,60,4.0
+384,3759,incart,in stock,250,765,2.0
+385,510,incart,in stock,96,258,2.3
+386,9520,incart,out of product,80,362,4.0
+387,240,incart,out of product,139,754,3.8
+388,6097,incart,out of product,452,87,3.7
+389,9370,incart,out of product,371,428,3.8
+390,7334,incart,out of product,26,623,4.2
+391,2311,incart,out of product,270,988,3.5
+392,2238,incart,in stock,227,320,1.3
+393,388,purchased,out of product,86,943,1.9
+394,9579,incart,out of product,222,332,1.3
+395,8453,incart,out of product,54,285,2.7
+396,6531,purchased,in stock,321,667,1.4
+397,5570,incart,in stock,143,542,3.8
+398,9899,purchased,in stock,40,200,4.2
+399,3392,purchased,in stock,59,440,4.5
+400,7075,incart,out of product,379,132,3.4
+401,4444,purchased,in stock,486,957,3.4
+402,9702,incart,in stock,222,654,4.1
+403,5776,incart,out of product,451,934,2.4
+404,5178,incart,in stock,375,155,3.8
+405,3301,purchased,in stock,52,335,3.8
+406,8861,purchased,out of product,69,984,1.5
+407,781,incart,in stock,439,300,2.1
+408,3847,incart,out of product,51,446,3.6
+409,3953,purchased,out of product,99,366,2.4
+410,7383,incart,in stock,127,564,1.8
+411,9401,incart,out of product,182,611,4.3
+412,5075,incart,in stock,3,666,1.5
+413,3440,purchased,in stock,387,468,4.1
+414,3227,purchased,in stock,2,476,3.0
+415,6245,purchased,in stock,371,636,3.9
+416,6815,purchased,in stock,131,347,3.5
+417,9082,incart,out of product,80,294,4.7
+418,1468,purchased,in stock,289,164,4.6
+419,4518,purchased,in stock,451,744,1.6
+420,4662,purchased,out of product,13,43,3.8
+421,1479,purchased,in stock,484,712,1.2
+422,1597,purchased,in stock,158,528,4.4
+423,1161,purchased,out of product,230,42,1.8
+424,2864,incart,in stock,181,325,3.1
+425,3232,incart,out of product,299,409,3.8
+426,956,incart,in stock,160,45,2.7
+427,1579,purchased,in stock,353,17,1.4
+428,5799,purchased,out of product,348,60,2.9
+429,5105,purchased,in stock,209,423,2.6
+430,2593,purchased,out of product,71,135,4.2
+431,3500,incart,out of product,497,453,2.9
+432,5428,incart,in stock,67,63,3.2
+433,8855,incart,out of product,464,168,4.2
+434,2703,purchased,out of product,88,827,3.2
+435,8367,purchased,in stock,134,163,1.9
+436,4431,incart,in stock,393,136,2.9
+437,3048,incart,out of product,387,588,3.8
+438,5773,purchased,in stock,360,504,2.8
+439,7367,incart,in stock,490,48,4.6
+440,2699,incart,in stock,317,639,1.1
+441,6690,purchased,in stock,67,75,4.1
+442,1493,purchased,in stock,291,659,2.8
+443,1350,purchased,out of product,118,304,4.5
+444,7331,incart,out of product,218,158,3.6
+445,4335,incart,in stock,0,356,4.3
+446,5429,purchased,out of product,299,69,1.0
+447,3953,incart,in stock,335,633,2.0
+448,894,incart,out of product,427,809,1.9
+449,7994,incart,in stock,333,315,3.4
+450,8804,incart,out of product,64,214,4.9
+451,6776,incart,out of product,8,134,3.8
+452,8519,incart,out of product,478,256,3.1
+453,8693,incart,out of product,239,939,2.8
+454,581,purchased,in stock,332,245,2.3
+455,3233,purchased,in stock,277,240,3.0
+456,861,purchased,in stock,401,990,4.6
+457,4256,incart,in stock,179,576,4.0
+458,7435,purchased,in stock,44,43,2.4
+459,1099,purchased,out of product,93,520,3.3
+460,8524,incart,out of product,52,311,1.2
+461,3005,incart,out of product,329,912,3.3
+462,2947,purchased,out of product,189,179,3.0
+463,7343,purchased,in stock,109,606,4.8
+464,9975,purchased,in stock,256,984,4.8
+465,1052,incart,out of product,184,412,1.2
+466,6280,incart,out of product,283,763,2.4
+467,9785,incart,out of product,59,481,3.8
+468,6154,purchased,out of product,376,156,3.7
+469,9181,purchased,out of product,483,818,3.3
+470,4626,incart,out of product,275,241,2.6
+471,4388,incart,out of product,78,169,1.8
+472,2105,incart,out of product,234,755,1.7
+473,3055,incart,out of product,52,172,4.6
+474,4733,incart,out of product,367,45,3.0
+475,1893,purchased,in stock,402,513,2.0
+476,1875,incart,in stock,163,829,1.6
+477,5232,incart,out of product,149,377,3.4
+478,949,purchased,out of product,214,84,3.7
+479,2409,incart,out of product,178,506,1.8
+480,6841,purchased,in stock,402,775,1.9
+481,3872,incart,out of product,383,594,1.9
+482,7792,purchased,in stock,145,724,3.5
+483,9676,incart,out of product,97,247,1.5
+484,2351,incart,out of product,488,605,4.0
+485,4426,incart,out of product,231,579,4.8
+486,8946,incart,in stock,297,680,4.1
+487,9273,purchased,out of product,31,840,2.2
+488,5036,purchased,out of product,337,534,4.6
+489,443,incart,out of product,51,838,4.8
+490,9534,incart,in stock,1,902,4.9
+491,150,purchased,out of product,498,464,1.7
+492,4226,incart,in stock,76,399,3.3
+493,2623,incart,in stock,364,282,3.9
+494,7385,incart,out of product,195,35,2.4
+495,5240,incart,out of product,369,757,2.9
+496,6584,incart,in stock,229,46,1.4
+497,6958,incart,out of product,281,804,3.0
+498,3336,incart,out of product,282,643,4.2
+499,9215,incart,in stock,215,798,2.6
+500,2532,purchased,in stock,90,421,3.0
+501,1497,incart,in stock,328,269,1.5
+502,4974,incart,in stock,281,762,1.5
+503,204,incart,out of product,116,87,1.1
+504,1969,incart,in stock,457,951,3.9
+505,5066,purchased,in stock,210,757,4.2
+506,9836,purchased,in stock,266,844,3.7
+507,4949,purchased,out of product,213,637,2.5
+508,2421,incart,out of product,95,729,2.9
+509,3426,purchased,out of product,129,686,3.4
+510,4652,incart,out of product,43,978,2.0
+511,1749,purchased,out of product,167,922,4.2
+512,9616,purchased,out of product,113,921,1.7
+513,8516,purchased,out of product,362,473,1.5
+514,9112,purchased,out of product,287,669,1.8
+515,1477,purchased,out of product,62,725,3.1
+516,7024,purchased,out of product,15,110,2.3
+517,9054,purchased,in stock,89,474,2.1
+518,257,incart,in stock,69,225,4.6
+519,4564,purchased,in stock,287,810,3.5
+520,6501,incart,out of product,385,519,3.7
+521,6300,incart,out of product,369,279,3.6
+522,8327,purchased,out of product,53,699,1.3
+523,8646,incart,out of product,297,957,2.2
+524,7665,incart,out of product,113,968,2.9
+525,1092,purchased,in stock,209,158,1.5
+526,4698,purchased,out of product,286,938,3.6
+527,2911,incart,in stock,164,499,3.3
+528,2374,purchased,in stock,427,158,3.9
+529,3877,incart,out of product,119,387,2.0
+530,2282,incart,in stock,418,438,2.3
+531,3979,incart,out of product,209,656,3.9
+532,1479,purchased,out of product,195,423,3.7
+533,6923,purchased,out of product,377,645,2.9
+534,2040,purchased,out of product,74,147,3.8
+535,462,purchased,out of product,148,357,2.0
+536,8760,incart,out of product,468,44,4.7
+537,2556,purchased,out of product,152,153,2.6
+538,5615,purchased,in stock,296,287,2.6
+539,3985,purchased,in stock,319,582,3.1
+540,2518,purchased,out of product,159,237,4.3
+541,6238,incart,in stock,205,881,4.0
+542,1477,purchased,out of product,274,479,2.5
+543,6941,purchased,out of product,145,874,4.9
+544,1104,purchased,in stock,248,731,2.9
+545,7551,incart,in stock,360,347,2.7
+546,1673,incart,out of product,372,227,4.1
+547,2139,incart,out of product,217,331,3.9
+548,6986,incart,in stock,40,106,3.2
+549,1280,incart,out of product,405,111,4.3
+550,1844,incart,in stock,379,536,3.6
+551,6033,incart,out of product,436,848,1.9
+552,9281,incart,in stock,243,565,4.8
+553,6367,purchased,out of product,111,91,3.7
+554,1679,incart,in stock,307,28,4.4
+555,585,purchased,out of product,234,978,4.5
+556,6383,incart,in stock,60,746,4.8
+557,3677,purchased,in stock,377,279,4.6
+558,6221,purchased,in stock,279,947,2.6
+559,7768,purchased,out of product,108,692,2.5
+560,9555,incart,out of product,213,946,4.2
+561,1812,purchased,out of product,369,389,2.6
+562,7207,incart,out of product,343,335,2.1
+563,5028,purchased,out of product,270,214,3.5
+564,8931,purchased,out of product,107,970,2.2
+565,8772,incart,in stock,43,391,4.5
+566,970,incart,out of product,252,155,4.4
+567,9636,incart,in stock,9,248,4.5
+568,7635,incart,in stock,229,152,4.4
+569,695,purchased,out of product,23,525,4.0
+570,2463,purchased,out of product,376,639,1.2
+571,1622,purchased,in stock,395,847,4.4
+572,9283,incart,out of product,211,679,5.0
+573,9959,purchased,out of product,227,419,2.3
+574,9022,incart,in stock,144,881,1.5
+575,1718,incart,out of product,362,979,1.4
+576,3759,purchased,out of product,29,913,3.8
+577,8720,purchased,in stock,407,639,3.3
+578,3342,incart,in stock,468,606,1.1
+579,8782,incart,out of product,274,310,2.5
+580,4301,purchased,in stock,261,98,4.6
+581,5781,purchased,out of product,315,92,3.8
+582,5629,purchased,in stock,37,574,1.3
+583,4267,incart,in stock,72,364,3.1
+584,2474,incart,out of product,342,579,1.7
+585,3510,incart,out of product,44,473,1.9
+586,6237,purchased,out of product,237,775,1.2
+587,5686,purchased,out of product,356,844,4.9
+588,3215,incart,in stock,292,918,1.6
+589,288,incart,out of product,33,162,2.4
+590,2308,purchased,out of product,449,987,3.4
+591,4480,purchased,in stock,178,83,4.7
+592,485,purchased,in stock,70,550,2.1
+593,5135,purchased,out of product,243,563,2.2
+594,8975,purchased,in stock,496,17,2.5
+595,9168,purchased,in stock,307,676,2.4
+596,3837,incart,in stock,16,711,2.6
+597,5422,purchased,in stock,260,776,3.7
+598,3285,purchased,in stock,176,571,3.1
+599,9667,purchased,in stock,462,823,4.7
+600,2660,purchased,in stock,380,615,1.9
+601,6028,purchased,out of product,97,282,2.3
+602,5944,purchased,out of product,347,52,2.6
+603,597,purchased,in stock,258,14,4.6
+604,1948,purchased,in stock,153,371,4.6
+605,6625,incart,in stock,161,918,2.1
+606,506,purchased,out of product,441,456,4.7
+607,7151,incart,in stock,115,493,2.2
+608,8994,purchased,out of product,62,437,2.9
+609,1823,purchased,in stock,484,459,4.0
+610,9893,purchased,in stock,346,591,3.2
+611,9853,incart,in stock,346,812,1.8
+612,7322,incart,in stock,55,147,4.5
+613,4944,incart,in stock,447,608,4.7
+614,9702,incart,in stock,219,705,3.7
+615,7240,incart,in stock,232,206,4.7
+616,4088,incart,out of product,339,201,1.3
+617,5034,incart,in stock,309,679,1.1
+618,8879,purchased,out of product,333,483,1.5
+619,7885,incart,out of product,227,576,4.5
+620,7748,incart,out of product,142,951,4.1
+621,441,incart,in stock,390,750,2.7
+622,2262,purchased,in stock,61,557,3.8
+623,4530,purchased,out of product,175,757,1.4
+624,6998,incart,in stock,249,223,1.8
+625,1549,purchased,in stock,192,613,4.7
+626,6305,incart,in stock,324,45,1.7
+627,8619,incart,in stock,397,37,1.8
+628,2263,purchased,in stock,99,969,1.8
+629,8557,incart,in stock,341,114,3.1
+630,4577,purchased,out of product,310,714,1.9
+631,3831,purchased,in stock,115,158,4.0
+632,4921,incart,in stock,21,272,4.7
+633,3181,incart,out of product,197,855,1.1
+634,8025,purchased,in stock,324,179,1.9
+635,4519,incart,in stock,309,243,2.1
+636,8329,purchased,in stock,374,510,4.2
+637,4090,purchased,in stock,21,594,1.2
+638,4757,purchased,out of product,221,417,4.2
+639,6502,incart,out of product,227,890,3.1
+640,4886,incart,in stock,257,245,4.1
+641,6180,purchased,out of product,271,886,3.6
+642,6964,incart,out of product,286,429,4.0
+643,336,purchased,in stock,222,67,2.2
+644,2835,incart,in stock,6,921,1.3
+645,3718,purchased,out of product,265,63,4.7
+646,6227,purchased,out of product,133,87,4.2
+647,7492,incart,in stock,467,230,3.3
+648,3925,purchased,out of product,276,159,1.8
+649,8505,incart,out of product,60,672,3.9
+650,1972,incart,out of product,99,986,1.6
+651,2167,purchased,in stock,25,480,1.9
+652,6476,purchased,in stock,183,711,3.3
+653,7851,incart,out of product,434,242,2.0
+654,1446,purchased,in stock,144,43,1.6
+655,839,purchased,out of product,276,783,1.0
+656,4226,purchased,out of product,20,644,2.5
+657,3835,incart,out of product,71,511,4.7
+658,3537,incart,in stock,323,350,3.1
+659,7394,incart,in stock,18,231,1.2
+660,9029,incart,out of product,4,685,3.6
+661,5194,incart,out of product,69,943,2.8
+662,8432,incart,out of product,465,535,3.7
+663,6185,incart,out of product,398,527,2.2
+664,567,purchased,out of product,116,66,4.1
+665,1213,incart,out of product,220,891,3.3
+666,2068,incart,out of product,32,361,3.7
+667,9574,incart,in stock,362,140,3.2
+668,3137,incart,out of product,87,478,1.9
+669,5111,incart,in stock,132,662,4.9
+670,4968,purchased,out of product,445,425,4.1
+671,3744,incart,in stock,474,124,1.5
+672,5238,purchased,in stock,125,444,2.3
+673,6782,incart,out of product,366,911,2.7
+674,2479,purchased,in stock,370,23,1.3
+675,7289,purchased,out of product,412,642,1.5
+676,7285,incart,out of product,92,423,4.5
+677,5867,purchased,in stock,239,485,2.0
+678,4551,purchased,in stock,325,233,4.8
+679,4090,purchased,in stock,249,382,1.6
+680,8962,purchased,in stock,340,225,3.3
+681,1464,incart,in stock,500,480,2.7
+682,6256,purchased,out of product,477,248,1.5
+683,7294,purchased,out of product,461,873,1.3
+684,4131,incart,in stock,211,910,1.5
+685,3506,purchased,in stock,346,318,4.8
+686,5498,purchased,out of product,179,146,1.2
+687,9879,purchased,in stock,106,275,3.4
+688,3085,purchased,in stock,399,907,1.2
+689,906,purchased,out of product,447,610,3.1
+690,7566,purchased,in stock,268,219,1.9
+691,3056,purchased,in stock,462,35,1.3
+692,7800,purchased,out of product,216,338,1.7
+693,2203,purchased,in stock,312,761,4.2
+694,457,incart,in stock,49,829,1.3
+695,9151,purchased,out of product,116,209,4.8
+696,3421,purchased,out of product,354,111,4.4
+697,4069,purchased,out of product,17,721,4.9
+698,5937,purchased,out of product,186,960,3.6
+699,6228,purchased,out of product,218,158,3.5
+700,9088,purchased,out of product,380,125,1.9
+701,3805,incart,in stock,112,203,1.5
+702,3862,purchased,in stock,53,269,4.3
+703,5980,incart,in stock,438,929,1.5
+704,5545,incart,in stock,461,873,2.9
+705,6728,purchased,in stock,121,585,1.3
+706,9068,purchased,in stock,40,85,4.2
+707,7091,purchased,in stock,74,438,3.5
+708,8190,incart,in stock,278,220,3.2
+709,5008,purchased,out of product,331,217,2.7
+710,6419,purchased,in stock,198,22,4.5
+711,7472,purchased,out of product,92,828,3.9
+712,728,purchased,out of product,102,718,3.4
+713,9018,incart,out of product,8,432,2.3
+714,1567,purchased,in stock,450,123,4.9
+715,5184,incart,out of product,259,597,4.7
+716,667,purchased,in stock,191,948,2.2
+717,6530,incart,out of product,326,323,3.4
+718,8859,incart,in stock,460,743,4.3
+719,9867,incart,out of product,342,16,2.1
+720,6863,incart,out of product,366,185,3.0
+721,4264,incart,in stock,228,169,1.6
+722,5192,purchased,in stock,264,117,1.9
+723,9866,purchased,in stock,478,506,4.3
+724,8512,purchased,out of product,18,111,3.0
+725,4626,purchased,out of product,220,590,2.1
+726,9004,purchased,out of product,419,335,3.4
+727,7353,purchased,out of product,384,558,3.5
+728,7004,incart,out of product,62,43,4.5
+729,3116,purchased,out of product,44,440,2.1
+730,4889,incart,out of product,30,431,4.5
+731,3872,purchased,in stock,56,942,4.8
+732,6340,purchased,out of product,20,632,1.2
+733,6596,incart,out of product,60,34,3.2
+734,7170,purchased,out of product,22,971,4.7
+735,8456,incart,out of product,167,695,2.3
+736,9101,incart,in stock,88,503,3.8
+737,1320,incart,out of product,84,747,2.8
+738,9545,purchased,out of product,172,872,4.6
+739,2531,incart,out of product,185,516,4.6
+740,9078,purchased,out of product,253,773,2.5
+741,6587,incart,out of product,376,152,4.1
+742,4448,incart,in stock,309,326,2.4
+743,749,incart,in stock,275,211,3.4
+744,6316,purchased,in stock,447,761,4.6
+745,9781,purchased,out of product,374,87,4.7
+746,4358,purchased,out of product,474,831,4.1
+747,9516,purchased,in stock,296,548,1.9
+748,1106,incart,out of product,191,176,3.0
+749,4359,purchased,in stock,66,856,2.7
+750,8328,incart,out of product,386,958,2.5
+751,1777,purchased,in stock,466,262,1.9
+752,6851,incart,out of product,387,486,2.0
+753,1064,purchased,in stock,29,329,3.6
+754,7445,incart,out of product,444,282,3.0
+755,3551,incart,in stock,296,557,5.0
+756,1362,purchased,out of product,120,441,2.9
+757,4644,purchased,in stock,228,656,3.2
+758,8551,incart,in stock,305,56,3.2
+759,165,purchased,in stock,135,986,2.3
+760,4805,purchased,out of product,353,593,1.5
+761,7135,purchased,in stock,341,475,2.4
+762,9956,incart,out of product,380,543,2.5
+763,5055,purchased,in stock,383,131,4.7
+764,2975,purchased,out of product,95,551,2.1
+765,6726,incart,out of product,270,173,4.7
+766,8409,incart,in stock,163,214,1.2
+767,1557,incart,out of product,173,36,1.8
+768,2181,incart,out of product,190,976,4.2
+769,1293,incart,in stock,493,128,3.7
+770,6841,incart,in stock,480,947,2.3
+771,6974,purchased,out of product,77,657,3.1
+772,2727,incart,in stock,14,999,3.3
+773,6935,incart,in stock,247,348,3.4
+774,8207,purchased,in stock,379,565,2.4
+775,8311,incart,out of product,34,801,1.2
+776,3306,purchased,out of product,315,660,3.6
+777,1207,purchased,out of product,134,773,3.3
+778,1232,incart,in stock,381,15,3.0
+779,9975,purchased,out of product,46,665,4.2
+780,3244,purchased,out of product,186,254,3.4
+781,3980,purchased,out of product,410,394,1.4
+782,4467,incart,in stock,117,225,1.1
+783,8927,purchased,out of product,126,245,1.6
+784,6996,purchased,out of product,27,819,4.5
+785,451,purchased,in stock,327,375,4.5
+786,4002,purchased,in stock,357,808,3.4
+787,9423,incart,out of product,174,509,3.0
+788,7687,purchased,in stock,312,779,1.5
+789,3074,purchased,in stock,403,920,2.2
+790,9422,incart,out of product,32,952,3.3
+791,4629,purchased,in stock,263,878,4.3
+792,7256,purchased,out of product,399,210,4.9
+793,8765,purchased,out of product,279,934,2.4
+794,7287,purchased,in stock,488,55,1.8
+795,7224,incart,in stock,292,211,2.5
+796,178,purchased,in stock,376,151,1.6
+797,5257,incart,in stock,11,201,4.8
+798,2844,purchased,out of product,3,700,1.1
+799,2546,incart,out of product,208,492,1.7
+800,8015,incart,in stock,357,149,4.3
+801,6526,purchased,out of product,168,517,4.6
+802,6620,incart,in stock,233,923,2.0
+803,6817,purchased,out of product,296,798,4.8
+804,1595,incart,in stock,367,263,2.4
+805,7828,purchased,in stock,34,132,2.5
+806,805,purchased,in stock,129,16,1.2
+807,2443,purchased,in stock,38,209,2.5
+808,5499,incart,out of product,29,432,2.1
+809,6674,purchased,in stock,310,630,4.2
+810,5287,purchased,in stock,269,327,2.0
+811,9906,incart,in stock,278,396,2.8
+812,4549,purchased,in stock,87,529,2.9
+813,2526,purchased,out of product,496,812,4.6
+814,7489,incart,in stock,355,922,4.1
+815,7662,purchased,in stock,21,157,2.8
+816,7357,incart,out of product,244,556,4.2
+817,2991,purchased,out of product,335,711,3.8
+818,4839,purchased,in stock,385,473,2.6
+819,5183,purchased,out of product,230,647,1.2
+820,451,incart,out of product,255,605,1.8
+821,8148,incart,out of product,219,464,4.6
+822,9233,incart,out of product,17,276,1.8
+823,3098,purchased,out of product,363,905,1.9
+824,9440,purchased,in stock,441,237,1.2
+825,1663,incart,out of product,184,745,4.8
+826,487,purchased,in stock,287,634,1.5
+827,5893,incart,out of product,432,449,2.7
+828,3593,incart,in stock,26,123,3.4
+829,2911,purchased,in stock,108,784,1.9
+830,9812,incart,in stock,334,154,1.8
+831,1300,incart,in stock,216,227,4.9
+832,3475,purchased,in stock,477,205,3.1
+833,490,purchased,out of product,150,760,4.0
+834,6681,purchased,in stock,58,777,4.5
+835,5518,incart,out of product,495,240,4.7
+836,6188,incart,out of product,300,574,3.8
+837,7996,incart,in stock,50,432,1.7
+838,5335,purchased,in stock,346,527,4.3
+839,102,purchased,out of product,30,127,1.7
+840,5311,purchased,in stock,369,474,1.8
+841,8978,purchased,in stock,468,406,3.3
+842,2790,purchased,out of product,327,532,2.7
+843,9964,incart,in stock,276,752,2.2
+844,5260,incart,out of product,446,782,4.0
+845,8281,incart,out of product,431,704,3.2
+846,9279,purchased,out of product,195,632,2.5
+847,2654,purchased,in stock,97,776,2.4
+848,6472,incart,out of product,469,910,3.2
+849,1337,incart,out of product,7,79,4.0
+850,1963,purchased,in stock,319,457,1.8
+851,2708,incart,out of product,58,78,1.6
+852,5723,purchased,out of product,64,930,4.5
+853,7889,purchased,in stock,494,537,4.1
+854,9272,purchased,out of product,121,588,4.4
+855,304,purchased,out of product,60,380,4.0
+856,2023,incart,in stock,334,319,3.8
+857,3800,incart,in stock,275,159,3.4
+858,4413,incart,in stock,21,721,3.5
+859,4288,purchased,in stock,470,152,1.6
+860,8092,purchased,out of product,484,623,1.5
+861,7464,incart,in stock,420,222,4.6
+862,3676,incart,in stock,157,518,4.2
+863,7916,purchased,out of product,142,812,3.9
+864,3313,purchased,in stock,64,648,2.6
+865,3552,purchased,in stock,467,457,1.1
+866,6257,incart,out of product,460,840,3.9
+867,3733,incart,out of product,170,915,2.8
+868,4191,purchased,out of product,340,446,4.9
+869,495,purchased,in stock,225,338,1.8
+870,5834,incart,out of product,101,907,3.1
+871,7114,incart,in stock,378,896,3.3
+872,8238,incart,out of product,371,607,1.5
+873,7218,incart,in stock,80,834,4.4
+874,6072,purchased,out of product,340,485,4.3
+875,789,incart,in stock,386,595,4.8
+876,9452,incart,in stock,159,272,2.6
+877,6591,incart,in stock,209,946,1.1
+878,5057,purchased,out of product,328,955,1.4
+879,1412,incart,out of product,491,58,4.4
+880,5648,purchased,out of product,284,363,2.3
+881,5882,incart,in stock,269,767,2.8
+882,4223,incart,out of product,295,450,4.3
+883,7172,incart,in stock,453,976,4.5
+884,8063,purchased,in stock,46,113,1.0
+885,969,purchased,out of product,76,576,3.6
+886,3702,purchased,out of product,219,974,1.6
+887,4611,purchased,in stock,72,596,3.7
+888,9634,incart,in stock,318,986,3.0
+889,8504,incart,out of product,68,555,3.7
+890,975,incart,out of product,63,476,2.1
+891,2142,purchased,in stock,361,863,1.5
+892,6134,incart,out of product,19,290,1.2
+893,6839,purchased,out of product,436,565,1.9
+894,6825,purchased,out of product,80,294,2.9
+895,7109,incart,in stock,267,753,3.4
+896,4897,purchased,in stock,229,215,4.0
+897,8103,purchased,in stock,209,293,3.5
+898,1332,purchased,in stock,73,410,1.8
+899,7957,incart,in stock,279,335,3.1
+900,3427,incart,out of product,152,761,2.4
+901,7195,incart,out of product,466,116,2.3
+902,1908,purchased,in stock,121,458,4.9
+903,4371,purchased,in stock,312,764,3.8
+904,498,purchased,out of product,44,840,4.0
+905,167,incart,out of product,106,204,2.1
+906,4022,incart,in stock,251,529,3.7
+907,3912,incart,out of product,307,861,1.7
+908,1081,purchased,in stock,376,280,3.7
+909,195,incart,in stock,80,644,3.8
+910,4650,incart,out of product,125,686,3.7
+911,9112,purchased,out of product,436,728,4.4
+912,640,purchased,in stock,274,320,3.6
+913,5824,purchased,in stock,77,767,5.0
+914,6752,incart,in stock,368,465,4.1
+915,8034,incart,out of product,401,99,4.8
+916,5759,incart,in stock,243,805,4.8
+917,9817,incart,in stock,413,949,4.6
+918,5614,purchased,in stock,33,80,2.0
+919,3006,purchased,out of product,471,292,3.1
+920,7391,incart,in stock,405,982,1.6
+921,3853,purchased,out of product,292,234,3.1
+922,2170,incart,out of product,80,608,3.2
+923,4598,incart,in stock,284,587,2.3
+924,5644,purchased,in stock,118,386,4.3
+925,5781,incart,in stock,283,113,2.6
+926,4111,purchased,out of product,186,334,4.9
+927,6429,incart,in stock,227,412,2.1
+928,166,purchased,out of product,390,924,3.6
+929,4217,purchased,out of product,406,25,4.0
+930,6275,incart,in stock,358,465,4.8
+931,2240,purchased,out of product,392,949,4.9
+932,2654,incart,in stock,207,760,3.1
+933,1760,incart,out of product,439,576,2.3
+934,5273,purchased,out of product,270,457,1.7
+935,8450,incart,out of product,365,744,2.3
+936,219,incart,in stock,176,127,1.5
+937,9188,purchased,out of product,408,945,4.9
+938,1591,incart,out of product,323,235,3.3
+939,2512,purchased,out of product,447,380,2.7
+940,6661,purchased,in stock,391,437,3.6
+941,7251,purchased,in stock,113,873,3.5
+942,7414,purchased,in stock,37,517,2.3
+943,990,incart,out of product,254,466,3.0
+944,4662,incart,in stock,326,706,1.6
+945,7692,purchased,out of product,223,393,3.7
+946,3361,incart,in stock,354,638,4.7
+947,3139,purchased,in stock,450,371,2.3
+948,1621,purchased,out of product,499,790,1.5
+949,2029,incart,in stock,406,467,2.7
+950,2537,incart,out of product,413,269,1.5
+951,9252,incart,out of product,68,886,2.0
+952,1560,purchased,out of product,405,798,1.1
+953,5223,incart,out of product,84,549,3.4
+954,6791,purchased,in stock,82,294,3.8
+955,6239,incart,out of product,285,787,4.3
+956,2509,incart,in stock,193,32,4.9
+957,8404,purchased,out of product,129,434,3.6
+958,2102,incart,out of product,218,59,3.8
+959,5549,incart,in stock,169,453,4.9
+960,6541,incart,out of product,3,727,2.5
+961,3482,incart,in stock,125,491,3.3
+962,5343,incart,in stock,172,628,2.5
+963,9666,purchased,in stock,414,13,1.6
+964,8898,incart,in stock,72,64,2.2
+965,5152,incart,out of product,371,315,4.5
+966,9582,purchased,out of product,366,273,4.6
+967,810,purchased,out of product,169,846,2.9
+968,3275,incart,in stock,460,166,4.6
+969,4409,incart,in stock,165,530,3.0
+970,3695,incart,out of product,442,21,4.9
+971,8256,incart,out of product,147,525,2.7
+972,3447,incart,out of product,61,900,2.8
+973,9434,incart,out of product,291,240,1.2
+974,4627,incart,out of product,210,210,2.3
+975,5109,incart,out of product,115,101,4.6
+976,2062,purchased,in stock,245,74,3.7
+977,3985,purchased,in stock,161,498,1.9
+978,4140,purchased,in stock,481,207,4.0
+979,7385,purchased,in stock,143,563,5.0
+980,7902,purchased,in stock,259,705,4.6
+981,8430,purchased,in stock,324,898,3.6
+982,7840,purchased,in stock,287,551,4.3
+983,7026,incart,out of product,367,163,4.3
+984,4373,incart,in stock,400,683,3.4
+985,9726,incart,out of product,192,466,1.9
+986,8678,purchased,out of product,25,565,4.8
+987,3512,incart,out of product,390,953,2.1
+988,6458,incart,in stock,190,365,2.2
+989,9454,incart,out of product,414,404,4.1
+990,5759,incart,in stock,102,681,1.2
+991,9557,incart,out of product,457,831,4.4
+992,7672,purchased,out of product,218,559,4.6
+993,3757,incart,out of product,256,586,2.0
+994,9678,incart,out of product,426,901,1.6
+995,6793,incart,out of product,367,427,3.9
+996,9973,incart,in stock,380,276,3.4
+997,9324,purchased,in stock,119,798,1.2
+998,4362,incart,out of product,84,924,2.4
+999,7669,incart,in stock,230,95,4.8
+1000,5615,purchased,out of product,91,686,3.0
+1001,9663,purchased,in stock,304,974,4.6
+1002,1934,purchased,in stock,203,999,3.0
+1003,1360,incart,out of product,119,159,3.0
+1004,1379,incart,out of product,319,378,3.1
+1005,9561,purchased,in stock,24,20,4.4
+1006,5636,purchased,in stock,442,464,4.2
+1007,8467,incart,in stock,371,178,1.5
+1008,2415,purchased,out of product,253,807,3.9
+1009,5337,incart,out of product,190,570,3.7
+1010,1162,incart,out of product,181,736,4.3
+1011,512,purchased,in stock,476,255,4.3
+1012,7246,purchased,in stock,386,129,2.4
+1013,8428,purchased,out of product,442,325,4.1
+1014,2523,purchased,out of product,421,502,2.8
+1015,3235,purchased,out of product,399,809,1.8
+1016,7673,purchased,in stock,477,485,1.5
+1017,840,purchased,out of product,169,896,4.4
+1018,7792,purchased,out of product,12,408,2.2
+1019,3613,incart,in stock,130,372,3.9
+1020,4108,purchased,out of product,458,969,3.7
+1021,7348,purchased,in stock,40,926,1.4
+1022,7348,purchased,out of product,310,332,1.3
+1023,2268,incart,out of product,489,58,1.9
+1024,968,purchased,out of product,325,266,4.4
+1025,2562,incart,in stock,230,182,3.2
+1026,1263,incart,in stock,120,244,3.4
+1027,1687,purchased,in stock,488,691,1.2
+1028,4586,incart,out of product,222,913,3.5
+1029,6463,purchased,in stock,247,509,3.6
+1030,2127,incart,in stock,405,541,4.2
+1031,2453,incart,in stock,156,508,3.4
+1032,3286,incart,in stock,50,719,2.5
+1033,8044,incart,out of product,407,827,3.9
+1034,1072,purchased,in stock,227,484,3.6
+1035,3884,incart,out of product,353,187,4.2
+1036,1673,purchased,in stock,339,12,1.3
+1037,8576,incart,in stock,285,660,3.7
+1038,2263,incart,out of product,371,306,1.1
+1039,8842,incart,out of product,164,618,2.9
+1040,5341,purchased,out of product,7,551,4.9
+1041,1580,purchased,in stock,134,324,4.9
+1042,2049,purchased,in stock,297,353,3.8
+1043,3799,incart,in stock,429,787,1.3
+1044,7270,purchased,out of product,5,700,3.5
+1045,9603,incart,in stock,132,353,1.1
+1046,4914,incart,out of product,9,344,2.0
+1047,2890,incart,in stock,229,86,2.5
+1048,8042,incart,in stock,213,678,1.2
+1049,7505,incart,in stock,411,446,2.2
+1050,4100,purchased,in stock,118,425,2.0
+1051,6774,purchased,in stock,253,618,4.6
+1052,9846,purchased,out of product,88,794,4.0
+1053,4986,incart,in stock,420,854,3.9
+1054,8083,purchased,out of product,18,732,1.1
+1055,3949,purchased,in stock,275,825,4.7
+1056,5916,purchased,out of product,243,929,4.9
+1057,457,purchased,in stock,93,244,4.8
+1058,280,purchased,in stock,376,318,3.2
+1059,9891,incart,in stock,94,427,1.7
+1060,4445,incart,in stock,447,751,2.6
+1061,8959,incart,out of product,114,678,2.5
+1062,5441,purchased,in stock,97,408,1.1
+1063,5318,incart,in stock,9,290,1.7
+1064,5418,incart,in stock,245,244,3.1
+1065,1367,purchased,in stock,432,687,2.3
+1066,1281,purchased,out of product,13,450,3.1
+1067,2274,incart,in stock,105,799,1.4
+1068,8568,incart,out of product,202,398,3.0
+1069,2926,incart,out of product,41,711,1.1
+1070,5298,purchased,in stock,286,287,2.8
+1071,9526,incart,out of product,128,303,3.6
+1072,3367,purchased,out of product,257,10,5.0
+1073,4842,incart,out of product,281,489,4.6
+1074,7108,purchased,in stock,47,713,2.8
+1075,5138,purchased,in stock,107,328,1.7
+1076,8661,purchased,in stock,320,972,1.4
+1077,1124,purchased,in stock,262,494,4.0
+1078,5267,incart,out of product,308,536,2.8
+1079,7941,purchased,out of product,259,391,2.0
+1080,116,purchased,in stock,260,722,2.2
+1081,7774,purchased,in stock,306,300,3.1
+1082,7532,purchased,out of product,32,40,1.9
+1083,9503,purchased,out of product,170,544,2.8
+1084,1009,incart,in stock,264,459,2.0
+1085,4648,purchased,in stock,221,290,3.0
+1086,7314,purchased,out of product,414,389,4.4
+1087,2723,purchased,out of product,27,278,2.8
+1088,5158,purchased,in stock,162,294,2.1
+1089,8532,purchased,in stock,141,304,4.7
+1090,1051,purchased,in stock,403,262,4.5
+1091,6021,incart,out of product,440,437,3.8
+1092,1568,purchased,out of product,44,368,2.3
+1093,3996,purchased,in stock,119,465,4.0
+1094,4891,purchased,out of product,124,698,1.1
+1095,3133,incart,in stock,55,815,4.5
+1096,993,incart,in stock,491,696,3.9
+1097,6401,incart,in stock,264,533,1.5
+1098,5672,incart,out of product,299,529,3.1
+1099,2098,purchased,in stock,374,676,1.7
+1100,8634,incart,out of product,306,191,2.5
+1101,2706,incart,in stock,418,547,3.8
+1102,1784,incart,in stock,51,828,3.5
+1103,8838,purchased,out of product,81,758,1.7
+1104,2180,incart,in stock,77,554,2.7
+1105,1741,incart,in stock,243,367,4.8
+1106,4420,incart,out of product,148,62,4.1
+1107,4284,incart,in stock,447,795,4.1
+1108,9543,incart,out of product,213,486,2.2
+1109,3429,purchased,in stock,140,237,1.7
+1110,2122,purchased,in stock,1,838,1.9
+1111,4485,incart,in stock,193,831,2.4
+1112,5731,incart,in stock,33,569,4.3
+1113,1928,purchased,out of product,291,360,4.7
+1114,546,incart,in stock,10,890,4.2
+1115,9274,purchased,out of product,487,653,2.3
+1116,4839,incart,out of product,195,709,4.6
+1117,7843,incart,in stock,244,319,1.5
+1118,3721,incart,out of product,245,107,3.8
+1119,7543,incart,out of product,104,65,4.8
+1120,485,purchased,out of product,252,814,2.1
+1121,8877,incart,out of product,339,71,2.6
+1122,5668,incart,in stock,360,85,2.3
+1123,6533,purchased,in stock,468,93,2.3
+1124,2688,incart,out of product,435,538,2.3
+1125,8787,incart,in stock,403,781,1.1
+1126,3596,incart,in stock,367,688,4.9
+1127,2545,incart,out of product,225,409,2.3
+1128,351,incart,in stock,112,796,3.4
+1129,5860,incart,in stock,367,143,4.1
+1130,1641,purchased,out of product,79,467,3.1
+1131,3749,purchased,out of product,198,886,3.1
+1132,8202,incart,in stock,496,219,3.1
+1133,5963,incart,out of product,85,447,4.7
+1134,7048,incart,in stock,465,20,3.6
+1135,9752,incart,in stock,269,480,1.6
+1136,832,purchased,in stock,216,517,2.3
+1137,3358,purchased,in stock,461,337,2.2
+1138,9154,incart,out of product,387,525,1.8
+1139,426,incart,out of product,207,24,1.3
+1140,5167,incart,in stock,70,765,4.8
+1141,7476,incart,out of product,186,181,2.8
+1142,1546,incart,out of product,5,131,4.2
+1143,3498,incart,in stock,319,359,4.5
+1144,8030,incart,in stock,470,990,1.8
+1145,1072,incart,in stock,424,595,3.8
+1146,4220,incart,in stock,332,494,2.6
+1147,8636,incart,out of product,424,260,3.1
+1148,5142,incart,out of product,335,708,1.4
+1149,6232,incart,in stock,373,399,2.9
+1150,5153,incart,in stock,496,83,2.8
+1151,460,purchased,out of product,75,337,1.3
+1152,8408,purchased,in stock,157,251,1.4
+1153,8502,purchased,in stock,44,674,1.5
+1154,1269,purchased,out of product,115,473,2.2
+1155,8013,incart,out of product,143,202,1.1
+1156,7527,purchased,in stock,237,212,2.5
+1157,5281,purchased,out of product,168,60,1.2
+1158,4476,purchased,in stock,0,280,3.2
+1159,3353,purchased,in stock,375,998,3.8
+1160,6279,incart,out of product,320,166,1.1
+1161,637,incart,out of product,369,186,1.7
+1162,6393,purchased,in stock,223,566,1.6
+1163,2257,purchased,in stock,107,275,2.2
+1164,6617,purchased,in stock,181,441,3.2
+1165,2561,incart,in stock,494,242,1.6
+1166,3752,purchased,out of product,368,316,3.2
+1167,1098,purchased,out of product,63,646,1.6
+1168,8215,purchased,in stock,225,177,3.3
+1169,9040,purchased,out of product,116,72,1.2
+1170,169,purchased,in stock,179,478,2.7
+1171,1558,incart,out of product,458,917,3.9
+1172,3807,purchased,out of product,388,982,1.7
+1173,3387,purchased,out of product,85,368,4.9
+1174,7953,incart,out of product,50,546,4.4
+1175,3186,purchased,in stock,286,58,4.9
+1176,9052,incart,out of product,305,329,2.7
+1177,2982,purchased,in stock,119,176,3.2
+1178,3494,purchased,in stock,364,729,3.7
+1179,9340,purchased,in stock,139,738,4.5
+1180,5742,incart,out of product,299,167,2.1
+1181,7780,purchased,out of product,419,219,1.4
+1182,1912,purchased,out of product,1,698,2.2
+1183,3316,incart,in stock,467,805,4.1
+1184,2805,incart,in stock,16,315,2.3
+1185,4720,purchased,out of product,289,731,4.1
+1186,6028,purchased,out of product,79,445,4.7
+1187,3488,incart,in stock,8,844,4.4
+1188,184,purchased,out of product,413,883,3.8
+1189,4429,purchased,out of product,202,77,4.6
+1190,5372,incart,out of product,341,138,2.3
+1191,4973,incart,in stock,49,687,4.7
+1192,6135,purchased,out of product,364,861,2.5
+1193,4135,incart,out of product,424,988,1.2
+1194,2762,purchased,in stock,434,709,1.9
+1195,9343,incart,in stock,406,459,4.6
+1196,441,purchased,in stock,118,33,3.4
+1197,4379,incart,in stock,111,903,3.1
+1198,6795,incart,in stock,237,292,4.1
+1199,786,purchased,in stock,462,526,2.9
+1200,1390,incart,in stock,224,487,1.9
+1201,3746,purchased,in stock,75,558,2.6
+1202,8692,purchased,in stock,453,857,1.8
+1203,2149,purchased,in stock,37,808,1.1
+1204,9007,incart,in stock,395,80,3.3
+1205,7957,incart,in stock,31,589,4.0
+1206,9940,purchased,in stock,201,458,4.3
+1207,6921,purchased,in stock,20,212,2.0
+1208,426,purchased,in stock,243,13,3.1
+1209,5986,incart,out of product,197,142,1.2
+1210,8345,incart,out of product,26,506,2.8
+1211,1095,incart,in stock,263,843,4.8
+1212,8848,incart,out of product,366,69,2.4
+1213,4528,incart,out of product,225,472,3.1
+1214,5319,purchased,out of product,123,863,3.7
+1215,4565,incart,in stock,494,252,4.4
+1216,9699,purchased,in stock,383,276,4.3
+1217,6155,purchased,out of product,170,250,2.6
+1218,4132,incart,out of product,142,294,1.6
+1219,2328,purchased,in stock,126,708,3.4
+1220,9846,incart,in stock,291,970,2.3
+1221,3000,purchased,out of product,359,643,4.5
+1222,1862,incart,out of product,240,325,4.0
+1223,2959,incart,out of product,401,428,1.7
+1224,4746,incart,in stock,303,469,3.8
+1225,3687,purchased,in stock,134,513,4.1
+1226,9890,purchased,in stock,366,210,3.1
+1227,4637,purchased,in stock,231,812,3.4
+1228,3964,incart,in stock,310,744,1.9
+1229,3582,purchased,in stock,104,261,2.0
+1230,9154,incart,out of product,239,727,4.6
+1231,623,purchased,in stock,17,605,1.3
+1232,8944,purchased,in stock,128,374,4.8
+1233,5004,incart,in stock,430,876,2.7
+1234,9282,purchased,out of product,169,106,1.6
+1235,5568,incart,in stock,50,963,4.0
+1236,4104,incart,in stock,437,379,2.7
